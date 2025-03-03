@@ -1,5 +1,7 @@
 # Weather Map App
 
+Live app at: <https://weather-map-app-sigma.vercel.app/>
+
 ## Description
 
 This application displays weather data for different locations on an interactive map using React Leaflet. Users can click on a location on the map to view real-time weather information fetched from a weather API, the functionality extends for the user to search a location by name and see the weather information.
